@@ -27,7 +27,7 @@ This project analyzes sales and profit data from a retail superstore to identify
 - Use these data-driven insights to inform regional and product-level strategic decisions
 
 ## How to Run
-- Open `Untitled18.html` (Jupyter Notebook HTML export) to see full code and visualizations
+- Open `Untitled18-checkpoint` (Jupyter Notebook HTML export) to see full code and visualizations
 - Prerequisites: Python environment with pandas, seaborn, matplotlib, scikit-learn
 - Run analysis scripts to replicate visualizations and regression model results
 

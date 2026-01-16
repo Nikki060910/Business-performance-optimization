@@ -1,7 +1,7 @@
 # Business performance Optimization Project
 
 ## Project Overview
-This project analyzes sales and profit data from a retail superstore to identify major drivers of profitability. Key insights include regional profit disparities and the strong negative impact of discount levels on overall profit margins. The analysis estimates that reducing discount levels by 10% could improve average profit by approximately $6.39, enabling targeted pricing and marketing strategies to boost profitability.[attached_file:1]
+This project analyzes sales and profit data from a retail superstore to identify major drivers of profitability. Key insights include regional profit disparities and the strong negative impact of discount levels on overall profit margins. The analysis estimates that reducing discount levels by 10% could improve average profit by approximately $6.39, enabling targeted pricing and marketing strategies to boost profitability.
 
 ## Data Source
 - Dataset: Sample Superstore sales data (9,994 transactions)

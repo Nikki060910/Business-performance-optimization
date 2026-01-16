@@ -21,6 +21,7 @@ This project analyzes sales and profit data from a retail superstore to identify
 - A 10% uniform discount reduction predicted to improve profit by $6.39 on average
 
 ## Business Recommendations
+- This project identifies discounting and regional imbalance as major profit drivers
 - Tailor discount policies to reduce deep discounts especially in low-profit regions
 - Increase marketing focus and pricing strategies on high-margin product categories
 - Use these data-driven insights to inform regional and product-level strategic decisions
@@ -33,3 +34,4 @@ This project analyzes sales and profit data from a retail superstore to identify
 ## Author
 - NIKITA KHAPARDE
 - Data Scientist
+  
